@@ -1,6 +1,8 @@
 # Codicons
 [Codicons](http://www.phildionne.com/codicons) is an icon set of programming languages.
 
+![Codicons preview](codicons-preview.png "Codicons preview")
+
 ### Three sizes
 Large, medium and small.
 
